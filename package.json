@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-sentry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Konstantin Kitmanov <me@kitmanov.name>",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/browser": "^5.2.1",
+    "@sentry/integrations": "^5.2.0"
+  }
+}
